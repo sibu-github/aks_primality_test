@@ -1,0 +1,11 @@
+{
+  "name": "aks_primality_test",
+  "version": "1.0.0",
+  "description": "Check if a number is prime or not using AKS primality test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
